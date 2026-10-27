@@ -1,0 +1,6 @@
+{
+  "name": "ÔN TẬP KTGK1 - MÔN TIN HỌC 12",
+  "description": "Ứng dụng ôn tập kiểm tra giữa kỳ 1 môn Tin học lớp 12 theo đề cương chuẩn: Trắc nghiệm 4 lựa chọn, Trắc nghiệm Đúng/Sai, Tự luận kèm đáp án giải thích chi tiết và xuất thống kê ra file Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
